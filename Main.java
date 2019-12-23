@@ -76,9 +76,9 @@ class Main {
         }
       }
     }
+    //LOL IM STRUGGLING SIMPLIFYING THE LOOPS AND BRANCHES
 
     System.out.println(a + " to " + b + " " + res + " with " + changes + " edit(s)");
-
   }
 
   private static String max(String a, String b) {
