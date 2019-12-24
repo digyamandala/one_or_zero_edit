@@ -1,5 +1,8 @@
 import java.util.HashMap;
 
+
+//LOL IM STRUGGLING SIMPLIFYING THE LOOPS AND BRANCHES
+//Time Complexity: O(a + b)
 class Main {
   public static void main(String[] args) {
     String a = "pale";
@@ -76,7 +79,6 @@ class Main {
         }
       }
     }
-    //LOL IM STRUGGLING SIMPLIFYING THE LOOPS AND BRANCHES
 
     System.out.println(a + " to " + b + " " + res + " with " + changes + " edit(s)");
   }
